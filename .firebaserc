@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "classfunc-com"
+  },
+  "targets": {
+    "classfunc-com": {
+      "hosting": {
+        "gatsby-cf": [
+          "gatsby-cf"
+        ]
+      }
+    }
+  }
+}
